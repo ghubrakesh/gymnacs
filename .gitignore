@@ -5,8 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
+gymenv
+gymenv/
+.env*
 
 # Distribution / packaging
+
 .Python
 build/
 develop-eggs/
