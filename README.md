@@ -3,7 +3,7 @@
 This repository contains a CRUD API for a gym management system built using Django REST Framework. The API allows users to manage gyms, trainers, clients, and workout sessions.
 
 ## Test the APIs with Postman
-- [Projetct's Postman Workspace with all collectons](https://www.postman.com/payload-geologist-61696866/workspace/gym-mgmt)  (public)
+- [Projetct's Postman Workspace with all collections](https://www.postman.com/payload-geologist-61696866/workspace/gym-mgmt)  (public)
 
 - [Postman Documentation](https://github.com/ghubrakesh/gymnacs) (to be completed yet)
 
