@@ -5,7 +5,7 @@ This repository contains a CRUD API for a gym management system built using Djan
 ## Test the APIs with Postman
 - [Projetct's Postman Collection](https://www.postman.com/payload-geologist-61696866/workspace/gym-mgmt)  (public)
 
-- [Postman Documentation(https://github.com/ghubrakesh/gymnacs) (to be completed yet)
+- [Postman Documentation](https://github.com/ghubrakesh/gymnacs) (to be completed yet)
 
 
 ## Structure
