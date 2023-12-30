@@ -33,6 +33,6 @@ class ClientViewSet(viewsets.ModelViewSet):
 class WorkoutSessionViewSet(viewsets.ModelViewSet):
     queryset = WorkoutSession.objects.all()
     serializer_class = WorkoutSessionSerializer
-    # check if the user is a trainer or it's a safe (read-only) request
+    # check if the user is a trainer(admin) or a client
     permission_classes = [IsTrainerOrReadOnly]
 
