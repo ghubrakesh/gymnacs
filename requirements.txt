@@ -11,4 +11,8 @@ PyYAML==6.0.1
 setuptools==68.2.2
 sqlparse==0.4.4
 uritemplate==4.1.1
+<<<<<<< HEAD
 gunicorn
+=======
+gunicorn
+>>>>>>> 5a265823c396ae6332f761732cdfdaa825165129
