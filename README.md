@@ -41,7 +41,7 @@ The project structure is organized as follows:
 
 ---
 
-## Installation
+## To install and test the APIs locally
 1. Clone the repository:
   ```
   git clone https://github.com/sachin-404/gym-management-system-api.git
